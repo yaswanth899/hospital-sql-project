@@ -1,4 +1,3 @@
-# Pratice #
 # 1) 1. Top-Rated Hospitals by State
 SELECT State, `Hospital overall rating`, COUNT(*) AS hospital_count
 FROM hospital_general_information
